@@ -1,7 +1,7 @@
-# CW_COMP-1640 Enterprise Web Software Development Project
+# CW_COMP-1640 Enterprise Web Software Development Project (2017/2018 Term 1)
 Repository for the "No Mercy" Group
 
 ## Docs
-- [Artefacts]
+- [Artefacts](https://github.com/gibbykshmr/COMP-1640/tree/master/Artefacts)
 
 
